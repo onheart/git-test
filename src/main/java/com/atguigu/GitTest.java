@@ -8,6 +8,6 @@ public class GitTest {
         System.out.println("hello git333!!");
         System.out.println("hello git444!!");
         System.out.println("hot-fix change 1");
-        System.out.println("master change 1");
+        System.out.println("master change 11111");
     }
 }
